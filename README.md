@@ -1,6 +1,4 @@
-🚀 Thrilled to share the second task of my internship at Skillcraft Technology! 🤖
-
-I recently completed a Hand Gesture Recognition project using a Convolutional Neural Network (CNN) with Keras. This system recognizes 10 different hand gestures, including "palm," "fist," "thumbs-up," and more, leveraging the Leap GestRecog dataset.
+I  completed a Hand Gesture Recognition project using a Convolutional Neural Network (CNN) with Keras. This system recognizes 10 different hand gestures, including "palm," "fist," "thumbs-up," and more, leveraging the Leap GestRecog dataset.
 
 🔑 Key features:
 
